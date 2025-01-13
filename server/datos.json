@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Edamame Tradicional",
+    "price": "4.50",
+    "category": "Entradas"
+  },
+  {
+    "name": "Gyozas de Cerdo",
+    "price": "6.00",
+    "category": "Entradas"
+  },
+  {
+    "name": "Sopa Miso",
+    "price": "3.00",
+    "category": "Entradas"
+  },
+  {
+    "name": "California Roll",
+    "price": "8.50",
+    "category": "Rollos Clásicos"
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "price": "9.00",
+    "category": "Rollos Clásicos"
+  },
+  {
+    "name": "Salmon Roll",
+    "price": "8.00",
+    "category": "Rollos Clásicos"
+  },
+  {
+    "name": "Rainbow Roll",
+    "price": "12.00",
+    "category": "Rollos Especiales"
+  },
+  {
+    "name": "Dragon Roll",
+    "price": "13.00",
+    "category": "Rollos Especiales"
+  },
+  {
+    "name": "Volcano Roll",
+    "price": "14.00",
+    "category": "Rollos Especiales"
+  },
+  {
+    "name": "Nigiri de Salmón",
+    "price": "3.50",
+    "category": "Nigiri"
+  },
+  {
+    "name": "Nigiri de Atún",
+    "price": "4.00",
+    "category": "Nigiri"
+  },
+  {
+    "name": "Nigiri de Anguila",
+    "price": "4.50",
+    "category": "Nigiri"
+  },
+  {
+    "name": "Sashimi de Salmón",
+    "price": "12.00",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Sashimi de Atún",
+    "price": "14.00",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Sashimi Mixto",
+    "price": "20.00",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Té Verde Japonés",
+    "price": "2.50",
+    "category": "Bebidas"
+  },
+  {
+    "name": "Sake Caliente",
+    "price": "5.00",
+    "category": "Bebidas"
+  },
+  {
+    "name": "Refresco de Lata",
+    "price": "2.00",
+    "category": "Bebidas"
+  },
+  {
+    "name": "Helado de Té Verde",
+    "price": "4.00",
+    "category": "Postres"
+  },
+  {
+    "name": "Mochi de Fresa",
+    "price": "5.00",
+    "category": "Postres"
+  },
+  {
+    "name": "Dorayaki",
+    "price": "4.50",
+    "category": "Postres"
+  }
+]
