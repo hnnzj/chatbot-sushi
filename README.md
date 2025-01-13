@@ -2,16 +2,17 @@
 
 1. Clona el repositorio: `git clone <URL>`
 
-2. Instala dependencias:
+2. Correr entornos de prueba:
 
-- Instalar depedencias en servidor:
-  `cd .\server\`^
-  `npm i`
-- Instalar depedencias en servidor:
-  `cd .\app\`^
-  `npm i`
+   - Instalar depedencias en servidor:
+     `cd .\server\`
+     `npm i`
+   - Instalar depedencias en servidor:
+     `cd .\app\`
+     `npm i
 
 3. Crea un archivo `.env` basado en `.env.example` en el servidor.
+
 4. Correr entornos de prueba:
    - Correr servidor: `node --watch index.js`
    - Correr app: `npm run dev`
