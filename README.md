@@ -9,7 +9,7 @@
      `npm i`
    - Instalar depedencias en servidor:
      `cd .\app\`
-     npm i
+     `npm i`
 
 3. Crea un archivo `.env` basado en `.env.example` en el servidor.
 
