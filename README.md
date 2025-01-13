@@ -2,16 +2,16 @@
 
 1. Clona el repositorio: `git clone <URL>`
 2. Instala dependencias:
-   2.1- Instalar depedencias en servidor:
+   -2.1- Instalar depedencias en servidor:
    `cd .\server\`^
    `npm i`
-   2.2- Instalar depedencias en servidor:
+   -2.2- Instalar depedencias en servidor:
    `cd .\app\`^
    `npm i`
 3. Crea un archivo `.env` basado en `.env.example` en el servidor.
 4. Correr entornos de prueba:
-   4.1- Correr servidor: `node --watch index.js`
-   4.2- Correr app: `npm run dev`
+   -4.1- Correr servidor: `node --watch index.js`
+   -4.2- Correr app: `npm run dev`
 
 Ejemplos de mensajes:
 
@@ -19,8 +19,6 @@ Ejemplos de mensajes:
 - "Ver pedidos"
 - "Quiero comprar/pedir/ordenar"
 - "Horarios de atención"
-  router.post("/product", createProduct);
-  router.get("/product", getProducts);
 
 ### Endpoints
 
