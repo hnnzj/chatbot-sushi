@@ -4,12 +4,12 @@
 
 2. Correr entornos de prueba:
 
-   - Instalar depedencias en servidor:
+   - Instalar depedencias servidor:
      `cd .\server\`
      `npm i`
-   - Instalar depedencias en servidor:
+   - Instalar depedencias app:
      `cd .\app\`
-     `npm i
+     `npm i`
 
 3. Crea un archivo `.env` basado en `.env.example` en el servidor.
 
